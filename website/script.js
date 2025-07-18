@@ -298,7 +298,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: 'Thermodynamic modeling of calcium or magnesium chloride, chlorate, and perchlorate ternary mixtures',
                     meta: 'Icarus, 2024 • 3 citations',
                     description: 'Advanced thermodynamic modeling of ternary salt systems at Mars-relevant temperatures.',
-                    url: 'https://www.sciencedirect.com/science/article/pii/S0019103523004109'
+                    url: 'https://www.sciencedirect.com/science/article/am/pii/S0019103523004931'
                 },
                 {
                     title: 'Chloride, Chlorate, and Perchlorate Ternary Thermodynamic Modeling',
@@ -406,7 +406,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: 'Thermodynamic modeling of ternary salt mixtures',
                     meta: 'Icarus, 2024',
                     description: 'Advanced geochemical modeling to determine salt behavior at Mars-relevant conditions.',
-                    url: 'https://www.sciencedirect.com/science/article/pii/S0019103523004109'
+                    url: 'https://www.sciencedirect.com/science/article/am/pii/S0019103523004931'
                 }
             ]
         },
